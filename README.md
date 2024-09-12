@@ -10,5 +10,5 @@
 - An indicator for wether it sent or not
 
 # Inquiries
-- Contact me at `starlover@starlover.online` if any issues occur
+- Contact me via email at `starlover@starlover.online` if any issues occur
 
