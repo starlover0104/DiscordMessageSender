@@ -9,3 +9,6 @@
 - You can send fully customisable embedded messages
 - An indicator for wether it sent or not
 
+# Inquiries
+- Contact me at `starlover@starlover.online` if any issues occur
+
