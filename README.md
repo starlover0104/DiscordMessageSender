@@ -1,4 +1,4 @@
-# DiscordMessageSender
+# Discord Message Sender
 
 - This is a website based tool using html, js and css to send messages to discord
 
